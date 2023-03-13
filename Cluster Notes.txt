@@ -1,0 +1,88 @@
+Problem Statement Dealine (24/2)
+ - Field or domain
+ - Current approaches why do they fail
+ - Research question (augmentation of data)
+ - How to implement 
+ - Timeline (done with litteratur research, implementations etc)
+
+GitHub Repository.
+
+augmented data research
+
+Benjamin doing similar research
+
+----------------------------------------------------------
+Look into VPN for access cluster at home
+If you can access http://hpc.itu.dk/ you have internet access.
+
+ssh jete@hpc.itu.dk
+
+make folder for project
+git clone repository
+
+
+squeue (s stands for slur)
+
+scancel, will cancel a job
+
+Copy file from local computer to cluster
+scp [Source] [Target]
+Target = jete@hpc.itu.dk:./filename
+
+
+
+
+
+Symbolic vs image based genre classification approach
+Data augmentation approaches
+What are qualitative measures, what have currently been done in this sense
+
+Google brain
+
+
+---------------------------------------------------------
+Notes Group Meeting:
+
+Baseline fellow students, give the knowledge to understand the thesis.
+
+Explain it is valid since it is not covered in related work or partly covered.
+
+Do analysis/approach first, lastly the basics, intro etc.
+
+Method, features, model, training etc.
+
+Evaluation chapter, 
+
+Conclusion, what is my contribution / what I learned in the process.
+
+Related Work:
+Different paramides / family of methods will have different subsections.
+
+Have a brief section at the beginning of the section and details later in the section.
+Okay to steal a figure if it is referenced.
+
+
+
+Explain:
+ - Transformers
+ - BERT
+ - MusicBERT
+
+Not as much explaination on CNN and RNN.
+Explain the combined approach in CRNN.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
